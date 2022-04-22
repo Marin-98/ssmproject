@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaee14p" />
+        <module name="javaee06p" />
+        <module name="javaee12p" />
+        <module name="javaee13p" />
+        <module name="javaee09" />
+        <module name="javaee08" />
+        <module name="javaee19" />
+        <module name="javaee07" />
+        <module name="javaee18" />
+        <module name="javaee06" />
+        <module name="javaee17" />
+        <module name="javaee12" />
+        <module name="javaee11" />
+        <module name="javaee10" />
+        <module name="javaee05" />
+        <module name="javaee16" />
+        <module name="javaee04" />
+        <module name="javaee15" />
+        <module name="javaee03" />
+        <module name="javaee14" />
+        <module name="javaee02" />
+        <module name="javaee13" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java13" target="1.8" />
+      <module name="javaee06p" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

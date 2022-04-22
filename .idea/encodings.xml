@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GB2312">
+    <file url="file://$PROJECT_DIR$/javaee02/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee03/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee05/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee05/src/main/java/com/statement/service/TestServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee06/src/main/java/com/mybatis/po/MyUser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee06p/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee06p/src/main/java/com/controller/UserController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee06p/src/main/java/com/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/controller/OneToMoreController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/controller/UserController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/dao/UserDao.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/po/Idcard.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/po/MyUser.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/po/Orders.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/java/com/po/Person.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee07/src/main/resources" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee08/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee08/src/main/java/com/po/MyUser.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee08/src/main/resources" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee09/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaee11/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee11/src/main/java/controller/ConverterController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee11/src/main/java/converter/GoodsConverter.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee11/src/main/java/pojo/Goods.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee11/src/main/java/servlet/AddGoodsServlet.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee12/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee12p/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee13/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee13p/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee14/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee14p/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee15/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee16/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee17/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee18/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java/applicationContext.xml" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java/com" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java/com/dao/UserDao.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java/com/service/UserServiceImpl.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/javaee19/src/main/java/log4j.properties" charset="GB2312" />
+    <file url="PROJECT" charset="GB2312" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/java13" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee02" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee03" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee04" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee05" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee06" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee06p" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee07" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee08" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee09" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee10" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee11" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee12" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee12p" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee13" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee13p" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee14" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee14p" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee15" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee16" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee17" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee18" />
+    <file type="web" url="file://$PROJECT_DIR$/javaee19" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/javaee11/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/java13/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

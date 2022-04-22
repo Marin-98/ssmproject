@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>ssmWorkSpace</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>javaee07</module>
+        <module>javaee08</module>
+        <module>javaee09</module>
+        <module>javaee10</module>
+        <module>javaee06</module>
+        <module>javaee05</module>
+        <module>javaee04</module>
+        <module>javaee03</module>
+        <module>javaee02</module>
+        <module>javaee12</module>
+        <module>javaee12p</module>
+        <module>javaee13</module>
+        <module>javaee13p</module>
+        <module>javaee14</module>
+        <module>javaee14p</module>
+        <module>javaee15</module>
+        <module>javaee16</module>
+        <module>javaee17</module>
+        <module>javaee18</module>
+        <module>javaee19</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+</project>
