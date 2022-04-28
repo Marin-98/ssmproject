@@ -1,4 +1,4 @@
-<%--
+<%@ page import="Bean.userBean" %><%--
   Created by IntelliJ IDEA.
   User: marin
   Date: 2022/4/28
@@ -15,10 +15,9 @@
 <%
     String name = (String)request.getParameter("name");
     String password = (String)request.getParameter("password");
-    out.println("name:"+name);
-    out.println("password:"+password);
+    userBean users= (userBean)session.getAttribute("user");
     if (name != null && password != null) {
-        if (user.getName().equals(name)&&user.getPassword().equals(password)) {
+        if (users.getName().equals(name)&&users.getPassword().equals(password)) {
             out.println("登录成功");
         } else {
             out.println("登录失败");

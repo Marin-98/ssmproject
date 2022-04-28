@@ -15,6 +15,7 @@
     <jsp:setProperty name="user" property="name" param="name"/>
     <jsp:setProperty name="user" property="age" param="age"/>
     <jsp:setProperty name="user" property="number" param="number"/>
+    <jsp:setProperty name="user" property="password" param="password"/>
     <jsp:setProperty name="user" property="sex" param="sex"/>
     <jsp:setProperty name="user" property="area" param="area" />
     <jsp:setProperty name="user" property="courses" param="courses"/>
@@ -44,5 +45,9 @@
 %>
 <br/>
 <jsp:getProperty name="user" property="introduction"/>
+<%
+    session.setAttribute("user", user);
+    response.sendRedirect("login.jsp");
+%>
 </body>
 </html>
