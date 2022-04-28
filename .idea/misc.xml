@@ -25,6 +25,8 @@
     <file type="web" url="file://$PROJECT_DIR$/javaee17" />
     <file type="web" url="file://$PROJECT_DIR$/javaee18" />
     <file type="web" url="file://$PROJECT_DIR$/javaee19" />
+    <file type="web" url="file://$PROJECT_DIR$/test01" />
+    <file type="web" url="file://$PROJECT_DIR$/test03" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

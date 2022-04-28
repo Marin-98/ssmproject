@@ -29,6 +29,8 @@
         <module>javaee17</module>
         <module>javaee18</module>
         <module>javaee19</module>
+        <module>test01</module>
+        <module>test03</module>
     </modules>
 
     <properties>
