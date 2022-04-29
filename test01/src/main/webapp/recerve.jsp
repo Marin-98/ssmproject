@@ -3,7 +3,7 @@
     <head>
         <title>Title</title>
     </head>
-    <body>
+    <body style="background:lightblue">
         您的姓名：
         <% out.println(request.getParameter("name")); %>
         <br>

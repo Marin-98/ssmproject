@@ -1,4 +1,4 @@
 <%
-    out.print("Hello123 World!");
+    out.print("Hello World!");
 %>
 

@@ -15,3 +15,7 @@
 <center><font color="#0000ff" size="5">application对象示例</font>
 </center>
 <hr>
+本页面文件的实际路径是：<br><%=application.getRealPath("application.jsp") %><br>
+application对象中变量num的值为：<%=application.getAttribute("num") %>
+</body>
+</html>
